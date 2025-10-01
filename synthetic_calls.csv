@@ -1,0 +1,1001 @@
+CallID,Timestamp,X,Y,IncidentType,Severity,ResponseUnit
+1,2025-08-06 10:11:21,51,92,Traffic Accident,Low,Fire Truck
+2,2025-03-13 08:04:55,82,86,Traffic Accident,Low,Fire Truck
+3,2025-01-08 05:37:16,23,2,Traffic Accident,Low,Police
+4,2025-02-07 17:38:09,37,1,Traffic Accident,Critical,Ambulance
+5,2025-05-21 05:59:59,21,88,Traffic Accident,Moderate,Ambulance
+6,2025-06-14 18:55:33,91,59,Traffic Accident,Moderate,Police
+7,2025-08-30 04:52:06,50,54,Other,Moderate,Police
+8,2025-08-09 22:03:50,6,20,Fire,Critical,Mixed
+9,2025-06-23 21:16:25,13,8,Traffic Accident,Moderate,Ambulance
+10,2025-03-12 22:58:22,59,70,Medical Emergency,Low,Ambulance
+11,2025-09-05 16:39:19,80,35,Traffic Accident,Low,Ambulance
+12,2025-06-04 12:54:31,53,3,Traffic Accident,Low,Police
+13,2025-04-12 19:21:17,33,73,Medical Emergency,Moderate,Mixed
+14,2025-03-29 20:18:36,71,77,Traffic Accident,Critical,Ambulance
+15,2025-08-15 15:43:01,79,81,Fire,Moderate,Mixed
+16,2025-08-14 23:43:23,59,40,Traffic Accident,Critical,Ambulance
+17,2025-01-29 12:16:58,8,87,Traffic Accident,Moderate,Ambulance
+18,2025-07-22 05:17:20,80,7,Medical Emergency,Low,Ambulance
+19,2025-03-14 02:49:18,40,27,Medical Emergency,Moderate,Ambulance
+20,2025-07-28 02:49:00,47,22,Medical Emergency,Moderate,Fire Truck
+21,2025-03-28 17:40:33,85,90,Fire,Moderate,Mixed
+22,2025-06-26 20:43:58,2,0,Medical Emergency,Moderate,Ambulance
+23,2025-07-08 01:45:28,26,8,Medical Emergency,Critical,Ambulance
+24,2025-07-17 22:51:13,50,62,Medical Emergency,Moderate,Fire Truck
+25,2025-07-18 17:41:47,3,93,Traffic Accident,Moderate,Fire Truck
+26,2025-08-11 17:06:22,28,35,Other,Moderate,Fire Truck
+27,2025-01-10 15:20:56,27,65,Medical Emergency,Moderate,Ambulance
+28,2025-09-08 14:26:14,27,27,Traffic Accident,Moderate,Police
+29,2025-07-31 06:28:37,91,88,Traffic Accident,Critical,Ambulance
+30,2025-08-13 09:38:46,61,76,Medical Emergency,Critical,Fire Truck
+31,2025-04-30 05:46:49,8,61,Traffic Accident,Critical,Ambulance
+32,2025-03-17 18:34:08,78,58,Traffic Accident,Moderate,Police
+33,2025-05-07 18:57:15,61,57,Other,Moderate,Ambulance
+34,2025-04-12 00:05:21,55,80,Traffic Accident,Low,Ambulance
+35,2025-04-13 07:46:43,86,95,Other,Moderate,Ambulance
+36,2025-09-28 23:38:17,43,89,Other,Moderate,Fire Truck
+37,2025-09-16 19:35:38,74,55,Traffic Accident,Low,Ambulance
+38,2025-03-14 18:49:14,97,69,Traffic Accident,Low,Police
+39,2025-03-25 06:46:01,72,58,Traffic Accident,Critical,Fire Truck
+40,2025-01-10 01:51:37,58,35,Traffic Accident,Moderate,Ambulance
+41,2025-01-03 22:08:47,95,70,Traffic Accident,Moderate,Ambulance
+42,2025-09-13 13:19:24,81,0,Medical Emergency,Low,Ambulance
+43,2025-06-19 09:49:24,30,93,Medical Emergency,Moderate,Ambulance
+44,2025-01-26 09:34:47,59,1,Other,Low,Fire Truck
+45,2025-06-08 18:21:35,31,8,Traffic Accident,Low,Police
+46,2025-07-08 21:13:01,19,23,Fire,Low,Police
+47,2025-07-26 22:13:58,71,35,Medical Emergency,Moderate,Ambulance
+48,2025-05-20 01:48:53,88,98,Other,Moderate,Ambulance
+49,2025-06-28 02:47:55,65,53,Fire,Low,Ambulance
+50,2025-09-09 04:41:19,67,32,Fire,Critical,Ambulance
+51,2025-09-04 15:12:34,7,6,Medical Emergency,Moderate,Fire Truck
+52,2025-03-22 04:22:35,58,85,Traffic Accident,Moderate,Mixed
+53,2025-05-22 14:38:47,50,53,Other,Moderate,Ambulance
+54,2025-05-21 03:47:20,96,27,Medical Emergency,Low,Ambulance
+55,2025-01-15 14:45:50,47,18,Fire,Low,Ambulance
+56,2025-09-06 10:40:35,43,91,Fire,Moderate,Police
+57,2025-07-01 02:31:16,36,23,Traffic Accident,Moderate,Fire Truck
+58,2025-06-21 11:48:41,59,96,Traffic Accident,Moderate,Ambulance
+59,2025-07-11 22:57:19,32,66,Traffic Accident,Moderate,Mixed
+60,2025-01-21 22:52:01,57,66,Fire,Critical,Fire Truck
+61,2025-02-22 17:56:36,85,22,Traffic Accident,Moderate,Police
+62,2025-07-07 23:06:18,16,32,Traffic Accident,Low,Fire Truck
+63,2025-05-06 12:55:31,41,25,Medical Emergency,Low,Mixed
+64,2025-01-22 12:52:54,6,56,Medical Emergency,Critical,Ambulance
+65,2025-09-22 06:35:55,15,13,Medical Emergency,Moderate,Ambulance
+66,2025-09-11 03:34:23,65,31,Fire,Critical,Ambulance
+67,2025-01-24 10:56:06,62,61,Traffic Accident,Moderate,Ambulance
+68,2025-01-01 11:09:34,51,41,Medical Emergency,Moderate,Ambulance
+69,2025-01-19 01:05:51,96,7,Medical Emergency,Moderate,Fire Truck
+70,2025-05-18 10:50:20,67,5,Traffic Accident,Moderate,Fire Truck
+71,2025-05-25 11:30:59,54,39,Medical Emergency,Low,Fire Truck
+72,2025-09-06 11:35:50,29,18,Medical Emergency,Moderate,Ambulance
+73,2025-01-26 04:58:32,54,89,Traffic Accident,Low,Police
+74,2025-04-12 06:37:03,8,11,Fire,Critical,Ambulance
+75,2025-05-05 10:18:43,33,95,Fire,Low,Fire Truck
+76,2025-07-12 14:46:26,0,15,Fire,Moderate,Ambulance
+77,2025-08-11 03:03:25,92,66,Traffic Accident,Moderate,Police
+78,2025-09-02 20:05:35,56,28,Traffic Accident,Critical,Ambulance
+79,2025-05-13 15:29:16,61,68,Fire,Critical,Ambulance
+80,2025-08-18 09:08:44,38,99,Traffic Accident,Moderate,Ambulance
+81,2025-09-05 20:24:54,9,68,Medical Emergency,Moderate,Ambulance
+82,2025-06-25 22:47:53,18,57,Fire,Moderate,Fire Truck
+83,2025-03-01 20:16:56,15,23,Other,Low,Police
+84,2025-01-02 17:30:10,31,90,Medical Emergency,Moderate,Fire Truck
+85,2025-01-06 02:08:30,32,32,Medical Emergency,Low,Fire Truck
+86,2025-09-05 07:24:23,64,32,Medical Emergency,Moderate,Ambulance
+87,2025-03-07 03:44:22,11,94,Traffic Accident,Critical,Fire Truck
+88,2025-01-11 18:32:12,86,80,Medical Emergency,Moderate,Fire Truck
+89,2025-09-28 15:36:41,33,6,Traffic Accident,Moderate,Fire Truck
+90,2025-04-16 03:14:53,28,35,Fire,Low,Fire Truck
+91,2025-03-04 21:03:59,72,23,Medical Emergency,Low,Ambulance
+92,2025-02-15 09:17:34,81,95,Traffic Accident,Low,Police
+93,2025-08-15 02:24:11,54,12,Medical Emergency,Moderate,Ambulance
+94,2025-03-16 15:02:28,61,83,Medical Emergency,Moderate,Police
+95,2025-03-21 01:29:06,48,99,Traffic Accident,Low,Ambulance
+96,2025-09-27 13:15:49,70,27,Other,Low,Fire Truck
+97,2025-02-21 14:44:53,15,68,Traffic Accident,Moderate,Fire Truck
+98,2025-04-05 09:08:30,99,52,Medical Emergency,Low,Ambulance
+99,2025-09-16 08:45:09,41,57,Traffic Accident,Moderate,Ambulance
+100,2025-04-01 15:11:57,86,92,Traffic Accident,Critical,Ambulance
+101,2025-04-20 10:35:54,73,57,Medical Emergency,Critical,Ambulance
+102,2025-09-05 11:34:04,12,39,Traffic Accident,Low,Police
+103,2025-05-29 06:57:37,4,28,Traffic Accident,Low,Ambulance
+104,2025-08-02 13:53:36,64,85,Medical Emergency,Low,Mixed
+105,2025-04-21 23:52:55,3,35,Traffic Accident,Critical,Police
+106,2025-03-06 13:54:44,53,38,Fire,Low,Ambulance
+107,2025-07-09 23:42:14,66,44,Traffic Accident,Moderate,Ambulance
+108,2025-07-11 05:49:33,91,71,Traffic Accident,Moderate,Police
+109,2025-09-12 08:48:08,76,91,Other,Moderate,Ambulance
+110,2025-08-02 00:12:15,55,32,Traffic Accident,Low,Ambulance
+111,2025-04-13 14:55:58,31,44,Traffic Accident,Low,Fire Truck
+112,2025-04-04 05:38:43,74,35,Fire,Low,Fire Truck
+113,2025-06-01 01:19:45,48,13,Traffic Accident,Low,Fire Truck
+114,2025-06-02 03:47:50,2,15,Medical Emergency,Low,Mixed
+115,2025-08-19 17:19:34,15,71,Traffic Accident,Critical,Ambulance
+116,2025-08-19 21:23:32,91,35,Fire,Moderate,Fire Truck
+117,2025-09-20 02:54:54,91,40,Traffic Accident,Moderate,Ambulance
+118,2025-04-20 12:44:36,72,32,Fire,Moderate,Ambulance
+119,2025-03-10 14:13:06,12,45,Traffic Accident,Low,Ambulance
+120,2025-08-06 22:53:07,68,46,Other,Critical,Police
+121,2025-02-22 19:51:39,4,32,Medical Emergency,Moderate,Mixed
+122,2025-05-10 16:17:54,10,84,Medical Emergency,Moderate,Police
+123,2025-09-20 19:45:16,48,76,Traffic Accident,Critical,Ambulance
+124,2025-02-17 13:01:06,20,54,Medical Emergency,Low,Mixed
+125,2025-09-01 08:48:07,2,52,Fire,Low,Police
+126,2025-03-18 19:16:10,82,16,Traffic Accident,Moderate,Ambulance
+127,2025-05-02 03:44:49,44,76,Traffic Accident,Low,Police
+128,2025-09-27 12:11:23,33,91,Traffic Accident,Critical,Ambulance
+129,2025-01-25 13:54:12,53,2,Fire,Low,Fire Truck
+130,2025-03-18 05:28:11,4,93,Medical Emergency,Moderate,Ambulance
+131,2025-01-17 19:02:34,46,22,Medical Emergency,Moderate,Police
+132,2025-08-30 05:07:18,50,37,Medical Emergency,Low,Fire Truck
+133,2025-06-27 15:53:15,81,29,Fire,Critical,Police
+134,2025-02-05 21:40:23,37,96,Medical Emergency,Moderate,Fire Truck
+135,2025-01-03 11:57:42,50,80,Other,Critical,Mixed
+136,2025-03-17 16:47:54,73,16,Traffic Accident,Moderate,Mixed
+137,2025-03-16 07:21:07,52,65,Traffic Accident,Moderate,Ambulance
+138,2025-06-24 21:07:51,22,54,Fire,Moderate,Fire Truck
+139,2025-04-14 09:36:34,3,3,Traffic Accident,Low,Ambulance
+140,2025-06-30 19:13:47,92,31,Traffic Accident,Critical,Ambulance
+141,2025-02-13 12:36:53,4,81,Traffic Accident,Critical,Ambulance
+142,2025-04-24 08:01:19,0,4,Fire,Moderate,Ambulance
+143,2025-07-29 23:29:19,77,89,Medical Emergency,Critical,Police
+144,2025-01-19 21:22:09,85,55,Medical Emergency,Low,Ambulance
+145,2025-07-12 17:10:19,25,35,Medical Emergency,Low,Ambulance
+146,2025-08-04 04:08:25,78,46,Traffic Accident,Moderate,Fire Truck
+147,2025-01-08 10:01:03,86,77,Fire,Low,Ambulance
+148,2025-09-23 07:10:12,55,6,Medical Emergency,Low,Police
+149,2025-07-10 13:32:23,17,37,Fire,Moderate,Ambulance
+150,2025-08-31 08:02:36,27,73,Fire,Low,Ambulance
+151,2025-09-14 15:09:56,43,24,Medical Emergency,Moderate,Fire Truck
+152,2025-04-06 10:56:47,66,17,Traffic Accident,Moderate,Fire Truck
+153,2025-01-25 11:21:48,7,39,Fire,Critical,Ambulance
+154,2025-01-29 10:31:19,5,51,Medical Emergency,Moderate,Ambulance
+155,2025-01-11 14:22:13,69,32,Traffic Accident,Moderate,Ambulance
+156,2025-07-03 17:24:14,3,93,Traffic Accident,Moderate,Ambulance
+157,2025-08-09 16:10:47,54,8,Traffic Accident,Moderate,Ambulance
+158,2025-01-27 14:19:03,35,23,Traffic Accident,Moderate,Mixed
+159,2025-03-23 12:15:41,3,78,Medical Emergency,Moderate,Ambulance
+160,2025-07-24 21:57:57,50,61,Other,Moderate,Fire Truck
+161,2025-07-30 19:57:25,50,44,Medical Emergency,Critical,Ambulance
+162,2025-07-08 05:29:45,18,83,Fire,Moderate,Ambulance
+163,2025-08-29 10:55:34,89,13,Traffic Accident,Moderate,Ambulance
+164,2025-09-01 12:21:55,99,76,Fire,Critical,Ambulance
+165,2025-01-11 13:45:27,9,4,Traffic Accident,Low,Ambulance
+166,2025-03-12 04:43:17,1,83,Traffic Accident,Moderate,Police
+167,2025-01-16 15:37:10,74,14,Fire,Moderate,Ambulance
+168,2025-01-19 11:34:55,48,68,Medical Emergency,Low,Ambulance
+169,2025-04-08 21:03:25,74,8,Traffic Accident,Moderate,Mixed
+170,2025-06-15 07:30:41,63,21,Traffic Accident,Low,Police
+171,2025-02-24 01:41:11,13,59,Traffic Accident,Critical,Police
+172,2025-01-30 02:01:50,77,25,Other,Moderate,Fire Truck
+173,2025-02-03 05:00:39,17,39,Fire,Low,Police
+174,2025-06-05 18:38:24,37,96,Medical Emergency,Moderate,Ambulance
+175,2025-08-18 02:39:14,96,65,Fire,Low,Fire Truck
+176,2025-07-02 20:29:05,50,69,Other,Moderate,Ambulance
+177,2025-04-22 05:43:01,63,14,Medical Emergency,Moderate,Police
+178,2025-09-13 14:46:17,26,35,Other,Low,Police
+179,2025-01-07 20:24:17,26,54,Traffic Accident,Moderate,Police
+180,2025-06-09 09:55:57,4,73,Traffic Accident,Low,Ambulance
+181,2025-06-19 16:53:58,99,87,Medical Emergency,Moderate,Fire Truck
+182,2025-03-13 01:56:32,28,46,Fire,Low,Ambulance
+183,2025-07-21 01:55:14,35,35,Medical Emergency,Moderate,Police
+184,2025-05-20 13:05:09,73,37,Traffic Accident,Moderate,Ambulance
+185,2025-08-15 23:05:54,11,89,Fire,Moderate,Fire Truck
+186,2025-02-21 20:30:02,59,42,Other,Moderate,Fire Truck
+187,2025-06-14 00:48:03,36,71,Medical Emergency,Low,Ambulance
+188,2025-02-04 01:21:26,8,50,Medical Emergency,Low,Mixed
+189,2025-08-04 15:57:32,22,0,Traffic Accident,Low,Police
+190,2025-02-25 01:45:55,53,86,Other,Low,Fire Truck
+191,2025-03-30 22:08:52,39,14,Traffic Accident,Critical,Ambulance
+192,2025-07-03 06:25:16,51,56,Traffic Accident,Moderate,Ambulance
+193,2025-08-24 21:57:46,24,89,Other,Moderate,Ambulance
+194,2025-04-02 11:13:41,33,90,Fire,Moderate,Ambulance
+195,2025-09-21 17:54:40,50,53,Traffic Accident,Moderate,Ambulance
+196,2025-07-24 04:39:12,87,32,Traffic Accident,Moderate,Fire Truck
+197,2025-02-01 03:18:46,27,84,Fire,Low,Ambulance
+198,2025-02-05 03:25:11,19,85,Traffic Accident,Low,Fire Truck
+199,2025-07-25 03:44:22,0,95,Traffic Accident,Low,Ambulance
+200,2025-05-21 12:22:57,82,61,Traffic Accident,Critical,Ambulance
+201,2025-04-08 17:07:28,29,15,Fire,Critical,Police
+202,2025-08-27 11:16:06,46,65,Fire,Moderate,Ambulance
+203,2025-06-02 06:50:51,50,62,Traffic Accident,Moderate,Ambulance
+204,2025-03-27 14:01:20,2,31,Traffic Accident,Low,Fire Truck
+205,2025-08-19 10:43:09,96,86,Other,Low,Police
+206,2025-07-03 09:35:31,7,64,Fire,Moderate,Ambulance
+207,2025-03-25 22:21:48,71,53,Traffic Accident,Moderate,Police
+208,2025-07-30 06:37:41,91,7,Traffic Accident,Moderate,Police
+209,2025-03-25 16:28:40,45,15,Traffic Accident,Moderate,Ambulance
+210,2025-09-29 10:42:57,94,54,Medical Emergency,Critical,Ambulance
+211,2025-01-16 00:35:21,22,84,Traffic Accident,Critical,Fire Truck
+212,2025-05-22 00:30:34,59,81,Medical Emergency,Low,Ambulance
+213,2025-05-12 01:02:18,1,66,Fire,Moderate,Fire Truck
+214,2025-02-05 09:33:47,37,93,Traffic Accident,Low,Ambulance
+215,2025-06-27 19:09:53,85,23,Traffic Accident,Moderate,Mixed
+216,2025-01-12 04:49:01,86,95,Fire,Critical,Ambulance
+217,2025-05-29 00:52:52,39,65,Medical Emergency,Moderate,Ambulance
+218,2025-08-10 21:31:44,3,25,Fire,Critical,Ambulance
+219,2025-07-22 01:38:08,74,69,Other,Critical,Fire Truck
+220,2025-09-02 17:53:31,37,33,Fire,Moderate,Police
+221,2025-04-25 15:59:41,86,85,Traffic Accident,Low,Police
+222,2025-01-29 22:18:29,39,97,Medical Emergency,Moderate,Ambulance
+223,2025-05-07 07:47:45,44,16,Fire,Moderate,Fire Truck
+224,2025-05-02 03:00:59,63,1,Traffic Accident,Low,Ambulance
+225,2025-04-14 01:19:48,35,25,Traffic Accident,Low,Ambulance
+226,2025-02-27 22:57:22,35,58,Traffic Accident,Moderate,Ambulance
+227,2025-06-04 13:18:53,23,21,Medical Emergency,Moderate,Ambulance
+228,2025-02-13 03:14:07,19,82,Fire,Critical,Ambulance
+229,2025-08-01 10:33:25,97,72,Medical Emergency,Critical,Ambulance
+230,2025-03-25 15:21:23,16,0,Fire,Moderate,Ambulance
+231,2025-03-31 20:20:31,38,34,Medical Emergency,Low,Fire Truck
+232,2025-09-06 17:05:37,93,97,Traffic Accident,Moderate,Police
+233,2025-02-21 19:17:27,48,60,Medical Emergency,Moderate,Fire Truck
+234,2025-08-21 23:04:24,11,61,Other,Low,Fire Truck
+235,2025-07-01 19:55:00,80,86,Medical Emergency,Moderate,Mixed
+236,2025-01-28 22:39:54,81,88,Medical Emergency,Moderate,Ambulance
+237,2025-03-05 15:13:29,25,46,Traffic Accident,Moderate,Mixed
+238,2025-05-28 11:26:33,25,84,Fire,Moderate,Ambulance
+239,2025-09-05 15:30:00,6,8,Traffic Accident,Critical,Ambulance
+240,2025-09-11 03:05:12,92,81,Medical Emergency,Critical,Ambulance
+241,2025-09-10 10:39:50,58,16,Medical Emergency,Moderate,Fire Truck
+242,2025-09-21 08:13:38,44,97,Medical Emergency,Moderate,Ambulance
+243,2025-09-19 12:09:09,86,38,Traffic Accident,Moderate,Police
+244,2025-01-10 10:23:39,24,12,Medical Emergency,Low,Fire Truck
+245,2025-04-25 12:12:27,65,54,Fire,Low,Ambulance
+246,2025-03-03 15:09:13,12,12,Traffic Accident,Low,Ambulance
+247,2025-06-01 18:56:28,45,28,Medical Emergency,Moderate,Ambulance
+248,2025-09-30 00:45:52,56,15,Medical Emergency,Low,Police
+249,2025-09-19 05:24:46,24,83,Medical Emergency,Moderate,Ambulance
+250,2025-02-26 14:07:50,13,29,Medical Emergency,Low,Fire Truck
+251,2025-08-14 10:59:53,47,64,Other,Critical,Ambulance
+252,2025-02-06 11:24:34,87,67,Traffic Accident,Low,Police
+253,2025-05-26 17:42:05,42,69,Other,Low,Fire Truck
+254,2025-03-22 23:28:44,61,76,Other,Low,Ambulance
+255,2025-04-27 04:05:45,71,19,Medical Emergency,Moderate,Police
+256,2025-09-25 16:09:22,73,97,Traffic Accident,Critical,Mixed
+257,2025-04-14 09:57:50,5,4,Traffic Accident,Low,Police
+258,2025-04-20 07:24:57,98,19,Other,Critical,Ambulance
+259,2025-08-17 15:07:35,49,81,Medical Emergency,Critical,Police
+260,2025-02-12 00:56:08,12,88,Fire,Moderate,Ambulance
+261,2025-06-03 17:32:51,55,66,Traffic Accident,Moderate,Ambulance
+262,2025-09-21 21:25:48,97,75,Traffic Accident,Moderate,Mixed
+263,2025-02-04 20:35:54,10,58,Traffic Accident,Moderate,Ambulance
+264,2025-07-07 10:31:53,4,47,Fire,Critical,Ambulance
+265,2025-07-28 11:31:20,76,27,Traffic Accident,Low,Ambulance
+266,2025-06-20 19:46:28,95,61,Fire,Low,Ambulance
+267,2025-07-12 12:17:23,97,39,Fire,Moderate,Police
+268,2025-06-18 01:46:11,18,79,Medical Emergency,Low,Police
+269,2025-09-28 12:48:40,40,12,Medical Emergency,Moderate,Fire Truck
+270,2025-07-31 23:21:22,62,26,Medical Emergency,Critical,Police
+271,2025-06-21 05:50:20,57,30,Medical Emergency,Critical,Ambulance
+272,2025-05-01 22:11:04,29,38,Traffic Accident,Low,Police
+273,2025-05-19 11:48:32,92,11,Traffic Accident,Moderate,Fire Truck
+274,2025-04-15 06:30:58,16,94,Traffic Accident,Critical,Police
+275,2025-02-04 03:54:15,69,82,Medical Emergency,Moderate,Mixed
+276,2025-04-06 20:45:30,62,27,Medical Emergency,Low,Ambulance
+277,2025-06-21 21:10:49,67,19,Medical Emergency,Critical,Ambulance
+278,2025-03-13 07:40:33,16,11,Traffic Accident,Moderate,Ambulance
+279,2025-09-08 03:25:42,89,81,Medical Emergency,Low,Mixed
+280,2025-06-25 10:58:39,35,98,Fire,Moderate,Ambulance
+281,2025-07-14 22:41:06,32,5,Traffic Accident,Low,Ambulance
+282,2025-01-21 04:58:23,86,25,Traffic Accident,Moderate,Mixed
+283,2025-08-18 23:18:23,98,12,Medical Emergency,Moderate,Police
+284,2025-04-24 13:46:13,74,31,Traffic Accident,Moderate,Fire Truck
+285,2025-02-28 19:10:21,26,66,Other,Critical,Ambulance
+286,2025-06-10 03:53:37,20,46,Fire,Moderate,Ambulance
+287,2025-01-17 08:21:18,56,68,Other,Moderate,Police
+288,2025-09-07 17:59:16,14,33,Traffic Accident,Critical,Fire Truck
+289,2025-08-10 19:50:31,11,17,Medical Emergency,Moderate,Mixed
+290,2025-03-24 18:53:10,45,88,Medical Emergency,Low,Police
+291,2025-05-16 07:35:18,45,49,Medical Emergency,Moderate,Ambulance
+292,2025-05-06 20:40:18,52,23,Other,Moderate,Police
+293,2025-02-26 09:13:55,24,93,Traffic Accident,Critical,Fire Truck
+294,2025-09-01 02:16:48,99,8,Traffic Accident,Moderate,Ambulance
+295,2025-03-03 18:11:36,1,87,Fire,Low,Ambulance
+296,2025-04-03 19:11:31,20,17,Medical Emergency,Moderate,Mixed
+297,2025-09-29 23:32:13,37,31,Medical Emergency,Low,Mixed
+298,2025-08-30 11:56:40,40,7,Medical Emergency,Low,Ambulance
+299,2025-07-28 01:38:26,75,45,Traffic Accident,Moderate,Fire Truck
+300,2025-02-09 12:25:49,19,32,Fire,Critical,Ambulance
+301,2025-01-25 19:41:39,1,96,Traffic Accident,Moderate,Ambulance
+302,2025-04-03 22:39:08,25,21,Traffic Accident,Low,Ambulance
+303,2025-03-04 10:30:35,14,97,Traffic Accident,Moderate,Mixed
+304,2025-02-06 10:03:43,60,66,Medical Emergency,Moderate,Fire Truck
+305,2025-04-09 09:42:04,94,31,Traffic Accident,Low,Mixed
+306,2025-05-24 19:37:00,91,61,Medical Emergency,Moderate,Ambulance
+307,2025-09-14 09:26:58,74,83,Fire,Moderate,Police
+308,2025-04-25 13:31:53,2,40,Traffic Accident,Moderate,Police
+309,2025-07-17 03:50:28,11,86,Medical Emergency,Moderate,Fire Truck
+310,2025-02-25 06:19:20,18,54,Fire,Low,Police
+311,2025-04-25 20:26:06,52,54,Traffic Accident,Critical,Ambulance
+312,2025-06-05 01:09:05,82,21,Traffic Accident,Moderate,Ambulance
+313,2025-02-04 17:54:20,27,73,Fire,Moderate,Ambulance
+314,2025-05-11 17:17:31,78,96,Medical Emergency,Critical,Mixed
+315,2025-04-28 14:45:29,57,60,Medical Emergency,Moderate,Police
+316,2025-02-17 01:29:46,19,59,Traffic Accident,Low,Fire Truck
+317,2025-07-18 19:04:44,35,97,Fire,Low,Mixed
+318,2025-03-14 12:12:41,5,38,Traffic Accident,Moderate,Mixed
+319,2025-03-13 06:49:33,11,2,Medical Emergency,Moderate,Police
+320,2025-01-23 10:01:32,98,25,Medical Emergency,Low,Ambulance
+321,2025-01-18 17:58:34,43,13,Other,Critical,Police
+322,2025-03-02 06:52:49,40,61,Traffic Accident,Moderate,Fire Truck
+323,2025-04-01 03:40:32,88,83,Fire,Critical,Ambulance
+324,2025-06-17 09:36:00,27,65,Medical Emergency,Critical,Fire Truck
+325,2025-05-06 21:41:47,75,55,Traffic Accident,Moderate,Ambulance
+326,2025-06-20 20:33:37,9,66,Fire,Moderate,Ambulance
+327,2025-01-14 11:24:30,75,93,Traffic Accident,Moderate,Fire Truck
+328,2025-06-09 07:31:58,75,0,Traffic Accident,Moderate,Ambulance
+329,2025-07-25 00:57:45,36,46,Medical Emergency,Moderate,Police
+330,2025-06-14 15:13:03,43,55,Fire,Low,Ambulance
+331,2025-07-31 09:29:51,60,19,Traffic Accident,Critical,Fire Truck
+332,2025-01-18 20:07:13,19,25,Traffic Accident,Critical,Ambulance
+333,2025-03-12 03:52:48,58,68,Traffic Accident,Moderate,Fire Truck
+334,2025-03-31 20:13:14,19,52,Fire,Moderate,Ambulance
+335,2025-07-20 04:58:20,88,49,Other,Moderate,Ambulance
+336,2025-01-07 00:09:47,42,49,Traffic Accident,Moderate,Ambulance
+337,2025-01-31 07:52:32,44,51,Medical Emergency,Moderate,Fire Truck
+338,2025-04-08 22:06:22,84,0,Medical Emergency,Critical,Ambulance
+339,2025-02-26 02:42:46,85,46,Medical Emergency,Low,Mixed
+340,2025-01-10 08:21:36,73,29,Fire,Moderate,Police
+341,2025-07-08 09:25:00,75,90,Other,Moderate,Fire Truck
+342,2025-09-03 12:35:23,18,30,Medical Emergency,Moderate,Fire Truck
+343,2025-03-09 10:22:01,89,61,Medical Emergency,Low,Ambulance
+344,2025-03-24 07:39:52,72,32,Fire,Low,Police
+345,2025-05-17 21:28:33,76,30,Medical Emergency,Low,Ambulance
+346,2025-09-04 04:53:31,3,18,Medical Emergency,Low,Police
+347,2025-02-27 02:00:12,82,74,Traffic Accident,Moderate,Fire Truck
+348,2025-09-09 04:07:06,84,14,Medical Emergency,Moderate,Fire Truck
+349,2025-04-14 12:53:44,18,59,Fire,Moderate,Fire Truck
+350,2025-03-16 00:40:46,34,43,Traffic Accident,Moderate,Ambulance
+351,2025-06-16 09:05:52,77,73,Medical Emergency,Moderate,Fire Truck
+352,2025-04-20 19:22:14,71,47,Medical Emergency,Low,Police
+353,2025-08-20 01:27:14,24,11,Traffic Accident,Moderate,Ambulance
+354,2025-05-25 18:58:35,99,14,Traffic Accident,Moderate,Police
+355,2025-06-04 17:20:18,42,20,Traffic Accident,Critical,Fire Truck
+356,2025-06-03 01:12:29,14,24,Medical Emergency,Moderate,Ambulance
+357,2025-04-05 11:31:40,12,85,Traffic Accident,Critical,Fire Truck
+358,2025-06-20 02:16:26,51,26,Other,Moderate,Fire Truck
+359,2025-05-05 10:10:08,35,29,Medical Emergency,Moderate,Ambulance
+360,2025-07-21 04:37:46,88,93,Traffic Accident,Moderate,Ambulance
+361,2025-07-13 17:39:31,12,30,Medical Emergency,Critical,Fire Truck
+362,2025-05-25 21:16:17,41,55,Other,Moderate,Police
+363,2025-04-19 18:09:16,0,43,Traffic Accident,Moderate,Mixed
+364,2025-05-12 14:31:41,21,20,Medical Emergency,Moderate,Ambulance
+365,2025-08-22 10:00:22,9,87,Fire,Low,Mixed
+366,2025-03-01 03:00:42,79,48,Traffic Accident,Low,Ambulance
+367,2025-08-21 09:33:59,18,99,Fire,Moderate,Ambulance
+368,2025-06-29 21:13:25,35,73,Fire,Moderate,Ambulance
+369,2025-05-21 04:46:30,98,97,Fire,Moderate,Ambulance
+370,2025-05-05 03:38:17,36,14,Traffic Accident,Moderate,Fire Truck
+371,2025-04-15 13:31:22,72,77,Medical Emergency,Critical,Ambulance
+372,2025-04-22 15:03:05,63,34,Fire,Moderate,Ambulance
+373,2025-07-12 23:50:57,38,40,Medical Emergency,Low,Ambulance
+374,2025-08-28 02:01:11,18,67,Medical Emergency,Moderate,Ambulance
+375,2025-03-17 00:53:09,35,96,Fire,Moderate,Ambulance
+376,2025-08-03 03:12:06,69,40,Medical Emergency,Moderate,Police
+377,2025-08-05 09:07:55,59,4,Traffic Accident,Moderate,Ambulance
+378,2025-01-17 13:07:10,71,49,Medical Emergency,Moderate,Ambulance
+379,2025-08-23 16:54:48,85,69,Traffic Accident,Moderate,Ambulance
+380,2025-06-13 07:39:49,34,97,Fire,Moderate,Fire Truck
+381,2025-05-14 04:30:34,57,35,Other,Moderate,Police
+382,2025-08-02 20:01:37,54,79,Fire,Moderate,Police
+383,2025-01-18 09:13:52,11,16,Traffic Accident,Low,Ambulance
+384,2025-03-15 22:33:32,29,22,Traffic Accident,Critical,Mixed
+385,2025-09-13 09:03:35,64,29,Fire,Moderate,Ambulance
+386,2025-02-22 15:47:04,31,32,Medical Emergency,Moderate,Ambulance
+387,2025-07-20 21:59:38,13,35,Traffic Accident,Moderate,Ambulance
+388,2025-02-04 16:46:57,84,1,Other,Moderate,Ambulance
+389,2025-08-26 21:57:15,51,61,Fire,Moderate,Fire Truck
+390,2025-02-26 04:47:38,34,21,Fire,Low,Police
+391,2025-04-08 05:33:53,11,48,Traffic Accident,Low,Ambulance
+392,2025-08-03 20:07:54,87,29,Medical Emergency,Critical,Ambulance
+393,2025-06-02 08:51:28,13,72,Traffic Accident,Critical,Ambulance
+394,2025-01-18 02:39:15,34,81,Other,Moderate,Mixed
+395,2025-05-09 03:22:50,65,24,Fire,Moderate,Fire Truck
+396,2025-08-06 06:23:17,64,79,Medical Emergency,Critical,Fire Truck
+397,2025-01-03 00:38:34,40,5,Traffic Accident,Moderate,Ambulance
+398,2025-06-16 03:22:14,97,67,Traffic Accident,Low,Fire Truck
+399,2025-07-02 20:55:50,31,95,Fire,Low,Police
+400,2025-06-27 18:59:09,92,59,Medical Emergency,Critical,Ambulance
+401,2025-08-04 08:57:08,1,59,Traffic Accident,Moderate,Fire Truck
+402,2025-02-26 13:03:57,33,9,Traffic Accident,Moderate,Police
+403,2025-02-27 02:22:04,30,55,Traffic Accident,Moderate,Ambulance
+404,2025-09-16 10:41:51,20,72,Medical Emergency,Moderate,Ambulance
+405,2025-08-28 20:25:12,15,96,Fire,Low,Police
+406,2025-06-03 23:52:43,51,92,Medical Emergency,Moderate,Ambulance
+407,2025-01-27 22:09:56,62,62,Fire,Critical,Ambulance
+408,2025-07-01 09:33:12,91,85,Medical Emergency,Low,Police
+409,2025-02-08 07:54:20,54,1,Traffic Accident,Moderate,Police
+410,2025-06-03 23:38:30,20,9,Medical Emergency,Critical,Fire Truck
+411,2025-07-05 10:43:44,12,84,Medical Emergency,Moderate,Ambulance
+412,2025-07-09 09:12:35,44,31,Fire,Critical,Fire Truck
+413,2025-06-02 18:53:40,62,20,Medical Emergency,Critical,Ambulance
+414,2025-05-15 18:28:24,67,33,Traffic Accident,Low,Ambulance
+415,2025-01-27 13:58:05,92,51,Medical Emergency,Moderate,Mixed
+416,2025-06-28 06:04:41,63,16,Medical Emergency,Low,Police
+417,2025-02-18 06:33:08,47,28,Traffic Accident,Low,Ambulance
+418,2025-05-12 19:15:45,20,27,Medical Emergency,Moderate,Police
+419,2025-07-22 20:04:31,71,48,Medical Emergency,Critical,Fire Truck
+420,2025-05-11 08:25:30,82,68,Medical Emergency,Moderate,Fire Truck
+421,2025-09-28 14:20:31,76,71,Traffic Accident,Low,Ambulance
+422,2025-04-02 12:38:15,23,98,Traffic Accident,Low,Police
+423,2025-09-17 07:03:57,57,30,Traffic Accident,Moderate,Police
+424,2025-05-06 22:35:17,6,27,Traffic Accident,Moderate,Fire Truck
+425,2025-05-29 12:14:51,95,7,Traffic Accident,Critical,Ambulance
+426,2025-06-10 13:11:24,91,80,Traffic Accident,Low,Fire Truck
+427,2025-02-22 22:28:38,65,78,Traffic Accident,Critical,Fire Truck
+428,2025-08-05 20:01:11,77,40,Other,Moderate,Police
+429,2025-03-28 14:54:52,9,20,Traffic Accident,Moderate,Ambulance
+430,2025-09-15 22:19:26,12,52,Other,Moderate,Fire Truck
+431,2025-07-07 04:02:29,97,10,Traffic Accident,Critical,Fire Truck
+432,2025-02-04 05:34:45,72,24,Traffic Accident,Moderate,Ambulance
+433,2025-02-24 19:34:32,21,29,Other,Moderate,Ambulance
+434,2025-02-22 23:09:57,20,98,Medical Emergency,Moderate,Police
+435,2025-07-01 16:07:45,11,46,Traffic Accident,Low,Ambulance
+436,2025-05-03 05:20:14,7,45,Medical Emergency,Low,Fire Truck
+437,2025-04-19 14:12:08,74,85,Medical Emergency,Moderate,Fire Truck
+438,2025-06-07 14:22:48,12,81,Traffic Accident,Moderate,Ambulance
+439,2025-06-24 18:34:46,49,94,Fire,Critical,Ambulance
+440,2025-09-25 03:28:13,21,42,Medical Emergency,Low,Fire Truck
+441,2025-02-13 01:36:16,18,22,Medical Emergency,Low,Fire Truck
+442,2025-04-27 17:02:18,7,57,Traffic Accident,Moderate,Police
+443,2025-02-22 00:32:23,64,3,Traffic Accident,Moderate,Police
+444,2025-07-30 16:27:00,88,9,Medical Emergency,Low,Fire Truck
+445,2025-02-15 08:42:18,65,40,Traffic Accident,Moderate,Fire Truck
+446,2025-02-10 08:14:45,89,57,Traffic Accident,Low,Ambulance
+447,2025-02-04 05:09:24,33,52,Traffic Accident,Moderate,Ambulance
+448,2025-07-02 02:24:20,69,55,Fire,Critical,Ambulance
+449,2025-07-21 12:05:53,3,19,Medical Emergency,Moderate,Ambulance
+450,2025-04-06 11:08:02,84,53,Medical Emergency,Critical,Fire Truck
+451,2025-09-03 17:07:06,3,59,Medical Emergency,Critical,Fire Truck
+452,2025-01-10 10:48:58,3,92,Medical Emergency,Critical,Fire Truck
+453,2025-01-20 17:42:35,54,3,Traffic Accident,Moderate,Fire Truck
+454,2025-09-02 09:58:26,18,30,Traffic Accident,Moderate,Fire Truck
+455,2025-08-19 02:18:01,82,21,Medical Emergency,Low,Mixed
+456,2025-04-23 20:20:21,30,99,Fire,Moderate,Ambulance
+457,2025-04-16 18:24:23,54,54,Traffic Accident,Moderate,Ambulance
+458,2025-06-17 12:12:51,91,46,Other,Low,Fire Truck
+459,2025-01-01 10:03:27,16,69,Medical Emergency,Low,Ambulance
+460,2025-02-07 07:28:25,69,46,Medical Emergency,Moderate,Fire Truck
+461,2025-09-16 08:31:00,15,68,Traffic Accident,Moderate,Ambulance
+462,2025-04-12 18:01:11,76,93,Medical Emergency,Moderate,Fire Truck
+463,2025-04-02 14:23:03,50,18,Traffic Accident,Moderate,Police
+464,2025-04-22 19:14:10,92,63,Traffic Accident,Low,Ambulance
+465,2025-05-07 00:10:48,4,99,Traffic Accident,Critical,Police
+466,2025-09-17 18:16:38,34,0,Medical Emergency,Critical,Ambulance
+467,2025-08-26 15:44:47,45,59,Traffic Accident,Moderate,Mixed
+468,2025-07-07 07:17:09,88,35,Traffic Accident,Moderate,Ambulance
+469,2025-01-08 16:03:41,85,91,Traffic Accident,Moderate,Police
+470,2025-06-05 17:40:34,9,79,Traffic Accident,Moderate,Police
+471,2025-06-03 02:25:03,69,43,Traffic Accident,Low,Ambulance
+472,2025-01-12 06:04:46,81,56,Traffic Accident,Moderate,Police
+473,2025-07-02 23:43:30,69,14,Traffic Accident,Moderate,Mixed
+474,2025-06-29 06:45:06,14,47,Other,Critical,Ambulance
+475,2025-01-01 20:15:44,13,56,Fire,Low,Ambulance
+476,2025-02-03 20:40:23,86,89,Traffic Accident,Moderate,Ambulance
+477,2025-04-23 22:09:57,84,11,Traffic Accident,Critical,Ambulance
+478,2025-04-16 12:30:59,67,70,Medical Emergency,Moderate,Mixed
+479,2025-04-18 12:19:53,60,97,Fire,Moderate,Police
+480,2025-05-28 16:20:49,48,16,Medical Emergency,Moderate,Police
+481,2025-03-28 13:32:14,73,84,Traffic Accident,Moderate,Ambulance
+482,2025-04-26 00:30:45,73,97,Medical Emergency,Moderate,Police
+483,2025-02-21 14:42:27,75,87,Medical Emergency,Critical,Ambulance
+484,2025-09-25 20:18:55,98,63,Medical Emergency,Moderate,Ambulance
+485,2025-09-15 01:13:42,20,19,Fire,Low,Police
+486,2025-02-12 11:49:17,14,84,Medical Emergency,Critical,Ambulance
+487,2025-04-08 07:20:11,39,57,Medical Emergency,Moderate,Fire Truck
+488,2025-04-17 00:50:23,2,71,Traffic Accident,Moderate,Police
+489,2025-01-13 12:09:51,38,51,Fire,Moderate,Ambulance
+490,2025-06-18 17:01:12,68,50,Traffic Accident,Critical,Ambulance
+491,2025-07-27 02:52:05,91,40,Fire,Moderate,Police
+492,2025-08-13 12:06:25,46,14,Other,Moderate,Ambulance
+493,2025-07-07 00:16:23,83,69,Medical Emergency,Moderate,Police
+494,2025-09-12 09:15:40,2,26,Traffic Accident,Low,Ambulance
+495,2025-08-21 11:19:03,0,7,Medical Emergency,Moderate,Ambulance
+496,2025-09-14 01:40:41,3,93,Medical Emergency,Critical,Police
+497,2025-03-15 12:28:08,11,10,Fire,Low,Ambulance
+498,2025-05-28 09:55:11,20,29,Medical Emergency,Critical,Police
+499,2025-06-07 16:06:58,94,58,Traffic Accident,Critical,Fire Truck
+500,2025-09-29 15:00:07,96,67,Medical Emergency,Low,Ambulance
+501,2025-09-14 21:12:03,4,98,Traffic Accident,Low,Police
+502,2025-01-05 14:52:05,49,5,Medical Emergency,Moderate,Ambulance
+503,2025-07-24 19:12:25,46,72,Traffic Accident,Moderate,Police
+504,2025-07-20 02:26:40,91,29,Traffic Accident,Low,Police
+505,2025-07-25 10:19:19,61,32,Traffic Accident,Critical,Ambulance
+506,2025-07-19 08:37:15,46,81,Medical Emergency,Moderate,Fire Truck
+507,2025-06-16 06:10:31,21,16,Medical Emergency,Moderate,Mixed
+508,2025-05-06 16:04:45,34,32,Traffic Accident,Moderate,Ambulance
+509,2025-03-07 14:38:14,39,27,Medical Emergency,Critical,Fire Truck
+510,2025-06-24 04:43:56,0,71,Traffic Accident,Critical,Ambulance
+511,2025-04-19 23:14:35,57,24,Traffic Accident,Moderate,Ambulance
+512,2025-03-29 17:05:14,56,52,Medical Emergency,Low,Police
+513,2025-03-23 22:02:43,38,8,Medical Emergency,Moderate,Ambulance
+514,2025-07-29 18:18:30,96,5,Medical Emergency,Moderate,Ambulance
+515,2025-03-24 14:26:23,45,37,Traffic Accident,Moderate,Ambulance
+516,2025-05-07 11:22:39,18,29,Medical Emergency,Moderate,Ambulance
+517,2025-03-27 08:28:10,39,87,Traffic Accident,Low,Ambulance
+518,2025-02-26 19:48:56,82,50,Medical Emergency,Moderate,Police
+519,2025-07-18 15:39:10,44,70,Medical Emergency,Moderate,Fire Truck
+520,2025-06-18 15:45:55,18,46,Fire,Moderate,Ambulance
+521,2025-05-23 07:54:00,35,39,Traffic Accident,Critical,Fire Truck
+522,2025-07-06 03:45:19,51,88,Medical Emergency,Critical,Ambulance
+523,2025-06-17 11:22:48,77,93,Fire,Critical,Police
+524,2025-06-23 07:32:33,1,85,Medical Emergency,Critical,Ambulance
+525,2025-08-05 16:04:43,92,61,Medical Emergency,Critical,Fire Truck
+526,2025-04-20 08:25:19,63,49,Fire,Moderate,Ambulance
+527,2025-02-08 23:15:06,66,43,Traffic Accident,Critical,Mixed
+528,2025-01-09 14:28:18,67,34,Medical Emergency,Low,Fire Truck
+529,2025-07-19 05:48:30,44,86,Fire,Moderate,Ambulance
+530,2025-06-15 22:34:32,46,14,Medical Emergency,Low,Ambulance
+531,2025-07-11 12:12:58,20,50,Fire,Low,Fire Truck
+532,2025-05-23 08:30:51,54,70,Traffic Accident,Moderate,Police
+533,2025-01-29 01:49:58,66,85,Traffic Accident,Moderate,Ambulance
+534,2025-08-21 08:49:59,0,71,Medical Emergency,Critical,Ambulance
+535,2025-03-12 22:59:53,16,60,Fire,Critical,Ambulance
+536,2025-06-30 12:40:09,64,56,Traffic Accident,Moderate,Ambulance
+537,2025-01-11 18:30:51,34,47,Traffic Accident,Moderate,Fire Truck
+538,2025-07-21 01:11:40,48,45,Traffic Accident,Low,Police
+539,2025-04-29 08:55:02,96,89,Fire,Moderate,Ambulance
+540,2025-08-07 03:35:47,53,8,Medical Emergency,Moderate,Police
+541,2025-05-07 02:36:26,20,50,Medical Emergency,Moderate,Ambulance
+542,2025-01-26 04:00:38,63,10,Traffic Accident,Moderate,Mixed
+543,2025-05-15 20:55:55,44,0,Traffic Accident,Low,Police
+544,2025-03-14 20:49:16,60,11,Medical Emergency,Moderate,Police
+545,2025-03-23 01:44:54,91,68,Traffic Accident,Moderate,Ambulance
+546,2025-04-29 01:57:38,46,86,Traffic Accident,Low,Ambulance
+547,2025-02-10 11:35:04,67,93,Medical Emergency,Moderate,Ambulance
+548,2025-06-30 22:22:57,27,39,Medical Emergency,Critical,Ambulance
+549,2025-08-30 17:23:47,14,40,Other,Moderate,Fire Truck
+550,2025-08-23 09:22:42,65,50,Fire,Critical,Fire Truck
+551,2025-04-29 16:22:40,72,38,Medical Emergency,Low,Ambulance
+552,2025-08-26 10:10:04,1,92,Traffic Accident,Moderate,Ambulance
+553,2025-04-19 17:04:52,80,40,Fire,Moderate,Ambulance
+554,2025-01-14 05:57:41,44,78,Traffic Accident,Critical,Fire Truck
+555,2025-02-18 03:26:05,94,24,Medical Emergency,Moderate,Police
+556,2025-07-26 09:41:28,53,17,Fire,Critical,Fire Truck
+557,2025-09-18 05:48:34,29,59,Traffic Accident,Moderate,Ambulance
+558,2025-09-16 03:37:38,43,78,Medical Emergency,Critical,Police
+559,2025-07-31 12:14:54,31,56,Traffic Accident,Moderate,Fire Truck
+560,2025-03-30 07:39:32,33,55,Traffic Accident,Moderate,Ambulance
+561,2025-05-12 02:47:03,64,64,Other,Moderate,Fire Truck
+562,2025-06-18 19:42:39,17,91,Traffic Accident,Moderate,Police
+563,2025-08-01 23:38:52,10,48,Traffic Accident,Low,Fire Truck
+564,2025-02-17 01:52:01,47,55,Other,Moderate,Fire Truck
+565,2025-07-27 11:48:31,49,68,Traffic Accident,Low,Fire Truck
+566,2025-02-24 20:10:51,44,3,Traffic Accident,Moderate,Mixed
+567,2025-01-05 08:46:50,90,50,Traffic Accident,Low,Ambulance
+568,2025-07-08 09:49:43,29,41,Other,Critical,Mixed
+569,2025-03-22 08:41:11,34,86,Fire,Low,Fire Truck
+570,2025-08-03 10:33:50,28,76,Medical Emergency,Critical,Ambulance
+571,2025-03-14 00:47:32,95,21,Fire,Critical,Fire Truck
+572,2025-07-25 21:54:39,33,85,Traffic Accident,Low,Ambulance
+573,2025-04-07 06:54:27,97,31,Medical Emergency,Critical,Fire Truck
+574,2025-01-15 01:08:53,20,43,Medical Emergency,Moderate,Ambulance
+575,2025-08-28 06:30:34,62,23,Other,Critical,Police
+576,2025-06-08 15:38:44,99,50,Medical Emergency,Low,Ambulance
+577,2025-03-15 16:55:02,85,23,Medical Emergency,Moderate,Ambulance
+578,2025-01-14 03:11:24,27,4,Fire,Moderate,Ambulance
+579,2025-07-08 12:18:35,63,90,Other,Low,Fire Truck
+580,2025-08-08 04:39:35,11,20,Medical Emergency,Moderate,Ambulance
+581,2025-04-04 04:27:05,55,19,Fire,Critical,Mixed
+582,2025-09-11 00:27:28,18,25,Other,Moderate,Police
+583,2025-05-03 23:50:05,54,99,Traffic Accident,Moderate,Police
+584,2025-08-14 15:26:25,14,26,Fire,Moderate,Fire Truck
+585,2025-08-19 21:27:50,50,52,Other,Moderate,Police
+586,2025-01-12 18:12:46,3,6,Other,Moderate,Ambulance
+587,2025-06-19 21:55:53,44,80,Medical Emergency,Moderate,Ambulance
+588,2025-08-11 12:55:57,62,37,Traffic Accident,Critical,Mixed
+589,2025-03-23 18:27:33,60,30,Medical Emergency,Low,Mixed
+590,2025-04-22 14:55:57,85,42,Medical Emergency,Moderate,Fire Truck
+591,2025-03-23 16:45:52,20,79,Medical Emergency,Moderate,Police
+592,2025-04-18 13:08:38,29,56,Medical Emergency,Low,Ambulance
+593,2025-09-30 07:30:10,25,70,Traffic Accident,Critical,Ambulance
+594,2025-01-31 17:43:07,36,0,Traffic Accident,Critical,Mixed
+595,2025-09-04 19:54:24,59,72,Medical Emergency,Low,Fire Truck
+596,2025-07-21 21:27:31,22,8,Medical Emergency,Moderate,Fire Truck
+597,2025-04-08 21:23:31,94,74,Traffic Accident,Critical,Police
+598,2025-07-29 20:19:45,44,95,Traffic Accident,Low,Fire Truck
+599,2025-09-27 21:57:58,15,65,Traffic Accident,Moderate,Police
+600,2025-05-19 21:13:40,15,59,Traffic Accident,Low,Fire Truck
+601,2025-09-12 11:19:01,30,33,Traffic Accident,Low,Mixed
+602,2025-06-22 21:02:43,54,26,Traffic Accident,Moderate,Police
+603,2025-03-07 13:25:55,16,29,Other,Moderate,Ambulance
+604,2025-04-01 21:03:17,56,24,Traffic Accident,Low,Fire Truck
+605,2025-09-29 10:35:06,61,73,Fire,Moderate,Ambulance
+606,2025-01-01 21:18:37,31,13,Fire,Moderate,Ambulance
+607,2025-07-17 23:58:14,78,21,Fire,Critical,Mixed
+608,2025-08-04 16:44:02,7,81,Fire,Critical,Police
+609,2025-03-09 04:01:44,97,74,Traffic Accident,Moderate,Ambulance
+610,2025-01-31 17:45:01,92,25,Medical Emergency,Moderate,Police
+611,2025-03-08 20:49:45,87,49,Fire,Moderate,Mixed
+612,2025-01-16 18:09:30,63,28,Other,Low,Ambulance
+613,2025-07-19 11:36:09,8,26,Medical Emergency,Moderate,Mixed
+614,2025-08-23 10:58:54,50,12,Fire,Moderate,Mixed
+615,2025-04-04 22:38:04,50,36,Traffic Accident,Critical,Fire Truck
+616,2025-01-01 13:22:35,59,90,Medical Emergency,Moderate,Ambulance
+617,2025-04-10 07:26:04,84,20,Medical Emergency,Critical,Ambulance
+618,2025-08-09 13:06:44,10,16,Medical Emergency,Low,Ambulance
+619,2025-04-15 19:32:31,83,82,Medical Emergency,Low,Ambulance
+620,2025-01-20 02:23:47,47,27,Medical Emergency,Moderate,Ambulance
+621,2025-01-08 23:07:30,77,98,Traffic Accident,Critical,Police
+622,2025-08-11 22:55:03,81,12,Fire,Low,Ambulance
+623,2025-04-11 14:33:50,37,74,Medical Emergency,Moderate,Police
+624,2025-05-20 21:09:28,86,44,Traffic Accident,Moderate,Mixed
+625,2025-07-04 16:17:19,35,17,Medical Emergency,Low,Ambulance
+626,2025-02-28 05:59:11,27,53,Traffic Accident,Low,Ambulance
+627,2025-02-04 03:32:39,98,12,Traffic Accident,Critical,Fire Truck
+628,2025-03-05 16:19:55,43,46,Medical Emergency,Critical,Ambulance
+629,2025-09-01 23:49:23,23,1,Traffic Accident,Critical,Ambulance
+630,2025-06-09 10:54:33,24,2,Fire,Moderate,Fire Truck
+631,2025-01-02 22:39:06,23,28,Fire,Low,Fire Truck
+632,2025-06-06 16:26:05,64,83,Fire,Moderate,Ambulance
+633,2025-04-25 15:22:18,91,57,Medical Emergency,Moderate,Ambulance
+634,2025-05-19 02:18:51,46,93,Traffic Accident,Critical,Ambulance
+635,2025-09-13 06:45:00,95,24,Medical Emergency,Moderate,Ambulance
+636,2025-08-10 12:40:36,11,15,Fire,Moderate,Fire Truck
+637,2025-09-01 19:43:51,99,50,Traffic Accident,Low,Police
+638,2025-09-18 05:23:44,88,71,Traffic Accident,Critical,Police
+639,2025-06-28 20:44:38,28,28,Traffic Accident,Moderate,Police
+640,2025-02-28 05:37:33,86,43,Traffic Accident,Low,Mixed
+641,2025-03-28 23:40:10,4,55,Other,Moderate,Mixed
+642,2025-05-19 08:17:52,27,21,Traffic Accident,Moderate,Ambulance
+643,2025-07-17 14:54:47,56,25,Medical Emergency,Moderate,Ambulance
+644,2025-04-21 00:39:29,76,52,Fire,Low,Ambulance
+645,2025-01-02 06:28:26,74,64,Traffic Accident,Low,Ambulance
+646,2025-07-07 19:27:10,59,56,Medical Emergency,Low,Ambulance
+647,2025-02-24 12:27:45,4,83,Medical Emergency,Moderate,Ambulance
+648,2025-08-18 13:17:15,49,37,Fire,Moderate,Fire Truck
+649,2025-01-23 11:58:46,20,45,Traffic Accident,Moderate,Police
+650,2025-05-20 07:40:57,81,77,Fire,Moderate,Ambulance
+651,2025-03-24 00:58:52,93,5,Fire,Moderate,Ambulance
+652,2025-04-11 16:03:23,32,80,Other,Low,Police
+653,2025-08-26 04:56:36,27,69,Traffic Accident,Moderate,Ambulance
+654,2025-02-07 04:23:38,55,63,Other,Moderate,Ambulance
+655,2025-04-29 08:02:01,88,17,Fire,Critical,Fire Truck
+656,2025-01-11 08:54:52,25,5,Traffic Accident,Low,Mixed
+657,2025-09-14 08:44:32,97,16,Other,Moderate,Mixed
+658,2025-02-14 10:54:27,7,12,Medical Emergency,Low,Ambulance
+659,2025-06-21 23:15:56,93,64,Fire,Low,Mixed
+660,2025-06-22 04:48:04,85,92,Fire,Critical,Ambulance
+661,2025-05-02 16:40:35,91,27,Traffic Accident,Moderate,Ambulance
+662,2025-03-09 15:40:24,65,54,Medical Emergency,Critical,Ambulance
+663,2025-03-24 23:20:33,92,66,Medical Emergency,Critical,Mixed
+664,2025-04-30 13:58:53,53,26,Other,Moderate,Fire Truck
+665,2025-07-24 23:03:33,70,66,Traffic Accident,Low,Mixed
+666,2025-06-01 03:43:40,90,89,Traffic Accident,Low,Ambulance
+667,2025-03-30 15:01:18,83,52,Traffic Accident,Moderate,Ambulance
+668,2025-08-23 16:53:01,57,25,Other,Critical,Fire Truck
+669,2025-06-14 12:20:50,74,40,Traffic Accident,Critical,Ambulance
+670,2025-06-17 02:17:09,97,40,Other,Moderate,Ambulance
+671,2025-05-13 18:57:13,50,20,Fire,Low,Ambulance
+672,2025-09-15 13:57:47,59,70,Medical Emergency,Low,Police
+673,2025-09-11 09:46:21,20,77,Medical Emergency,Moderate,Ambulance
+674,2025-03-17 00:00:10,92,7,Traffic Accident,Moderate,Police
+675,2025-02-17 21:49:17,27,90,Traffic Accident,Low,Fire Truck
+676,2025-09-14 07:47:28,66,23,Medical Emergency,Critical,Police
+677,2025-08-22 04:08:07,92,23,Traffic Accident,Low,Fire Truck
+678,2025-09-03 14:11:43,48,86,Traffic Accident,Moderate,Mixed
+679,2025-08-08 20:43:00,94,52,Medical Emergency,Critical,Ambulance
+680,2025-01-02 08:19:05,53,69,Traffic Accident,Low,Ambulance
+681,2025-07-09 22:17:11,37,84,Traffic Accident,Moderate,Ambulance
+682,2025-06-08 15:15:55,46,67,Other,Moderate,Fire Truck
+683,2025-08-09 10:34:14,40,68,Medical Emergency,Moderate,Police
+684,2025-04-25 00:12:52,24,26,Traffic Accident,Critical,Ambulance
+685,2025-08-23 03:02:02,46,99,Other,Low,Ambulance
+686,2025-06-28 02:11:25,20,71,Medical Emergency,Critical,Fire Truck
+687,2025-04-18 21:14:30,73,31,Traffic Accident,Low,Fire Truck
+688,2025-01-25 04:15:40,10,95,Traffic Accident,Moderate,Fire Truck
+689,2025-01-26 12:18:22,51,24,Traffic Accident,Moderate,Police
+690,2025-03-15 19:09:07,62,88,Traffic Accident,Low,Ambulance
+691,2025-09-05 09:22:35,65,14,Medical Emergency,Moderate,Mixed
+692,2025-05-06 17:59:07,22,38,Medical Emergency,Moderate,Ambulance
+693,2025-01-29 06:35:00,40,92,Traffic Accident,Moderate,Fire Truck
+694,2025-08-16 11:16:41,2,80,Medical Emergency,Low,Fire Truck
+695,2025-08-18 08:38:33,54,63,Fire,Moderate,Ambulance
+696,2025-05-30 12:53:18,31,95,Medical Emergency,Moderate,Ambulance
+697,2025-09-18 19:07:04,34,77,Medical Emergency,Low,Ambulance
+698,2025-07-16 14:11:36,3,87,Medical Emergency,Low,Fire Truck
+699,2025-02-11 08:28:32,48,39,Traffic Accident,Moderate,Police
+700,2025-08-10 09:10:57,5,12,Other,Low,Mixed
+701,2025-02-07 23:21:36,79,42,Medical Emergency,Critical,Ambulance
+702,2025-06-27 08:23:13,22,1,Medical Emergency,Moderate,Police
+703,2025-06-16 00:18:29,6,77,Medical Emergency,Moderate,Police
+704,2025-09-15 19:46:54,82,50,Traffic Accident,Moderate,Ambulance
+705,2025-05-14 14:47:34,11,52,Traffic Accident,Moderate,Fire Truck
+706,2025-01-07 21:26:20,96,4,Medical Emergency,Moderate,Ambulance
+707,2025-06-06 08:48:40,58,32,Traffic Accident,Moderate,Fire Truck
+708,2025-02-23 16:09:35,68,65,Traffic Accident,Moderate,Mixed
+709,2025-07-16 19:56:17,83,53,Medical Emergency,Critical,Police
+710,2025-08-29 11:44:51,53,92,Traffic Accident,Moderate,Ambulance
+711,2025-02-09 09:42:11,73,56,Traffic Accident,Moderate,Mixed
+712,2025-03-04 21:10:32,65,5,Fire,Low,Fire Truck
+713,2025-05-30 20:21:18,81,89,Fire,Moderate,Fire Truck
+714,2025-03-07 22:43:30,70,2,Traffic Accident,Moderate,Ambulance
+715,2025-07-23 14:53:54,23,73,Medical Emergency,Critical,Fire Truck
+716,2025-06-18 08:25:23,90,28,Other,Critical,Ambulance
+717,2025-03-08 19:43:12,19,18,Medical Emergency,Moderate,Ambulance
+718,2025-05-14 16:24:19,33,21,Other,Moderate,Fire Truck
+719,2025-04-22 15:47:06,96,95,Medical Emergency,Moderate,Ambulance
+720,2025-05-17 18:49:24,1,28,Traffic Accident,Critical,Ambulance
+721,2025-01-01 09:05:04,52,78,Traffic Accident,Low,Ambulance
+722,2025-02-06 17:25:45,21,99,Medical Emergency,Moderate,Ambulance
+723,2025-03-01 04:52:04,44,67,Other,Moderate,Mixed
+724,2025-05-27 19:04:33,9,35,Medical Emergency,Moderate,Police
+725,2025-05-17 14:41:05,5,47,Medical Emergency,Moderate,Police
+726,2025-03-20 10:21:28,49,34,Medical Emergency,Critical,Police
+727,2025-04-28 15:46:51,14,3,Fire,Low,Ambulance
+728,2025-04-25 14:16:43,91,16,Fire,Moderate,Police
+729,2025-08-04 18:16:00,39,38,Traffic Accident,Low,Police
+730,2025-08-17 14:12:47,46,62,Traffic Accident,Critical,Ambulance
+731,2025-08-18 10:46:20,33,39,Traffic Accident,Moderate,Ambulance
+732,2025-09-03 23:10:06,32,74,Fire,Moderate,Ambulance
+733,2025-07-28 11:18:28,81,37,Traffic Accident,Moderate,Ambulance
+734,2025-06-01 16:47:08,45,2,Medical Emergency,Low,Police
+735,2025-03-22 05:44:47,7,50,Medical Emergency,Moderate,Ambulance
+736,2025-01-10 04:24:21,88,38,Traffic Accident,Moderate,Police
+737,2025-08-31 14:22:26,8,81,Medical Emergency,Moderate,Fire Truck
+738,2025-07-31 02:48:19,59,39,Fire,Moderate,Mixed
+739,2025-02-04 19:51:09,91,17,Medical Emergency,Moderate,Ambulance
+740,2025-08-29 19:19:50,56,76,Traffic Accident,Moderate,Ambulance
+741,2025-01-18 18:04:56,53,87,Other,Critical,Police
+742,2025-09-28 16:58:26,77,37,Medical Emergency,Moderate,Ambulance
+743,2025-03-09 10:20:16,28,4,Medical Emergency,Low,Police
+744,2025-07-14 21:22:48,66,46,Medical Emergency,Critical,Ambulance
+745,2025-06-05 13:03:29,67,11,Traffic Accident,Moderate,Fire Truck
+746,2025-04-30 06:02:03,20,60,Traffic Accident,Low,Police
+747,2025-03-19 12:35:11,54,45,Other,Low,Ambulance
+748,2025-03-14 16:03:19,48,57,Other,Low,Ambulance
+749,2025-05-08 23:19:12,8,5,Fire,Moderate,Ambulance
+750,2025-05-21 22:09:49,4,41,Medical Emergency,Moderate,Ambulance
+751,2025-06-30 15:32:33,29,56,Traffic Accident,Moderate,Ambulance
+752,2025-02-13 05:44:09,86,12,Medical Emergency,Moderate,Ambulance
+753,2025-03-02 02:03:20,44,16,Medical Emergency,Low,Fire Truck
+754,2025-06-21 04:30:51,17,93,Traffic Accident,Critical,Ambulance
+755,2025-08-31 11:54:57,31,41,Medical Emergency,Critical,Fire Truck
+756,2025-04-09 07:56:12,35,33,Fire,Moderate,Ambulance
+757,2025-02-06 08:43:09,46,18,Traffic Accident,Low,Fire Truck
+758,2025-09-26 16:02:00,8,46,Medical Emergency,Low,Fire Truck
+759,2025-01-14 15:17:04,39,46,Medical Emergency,Moderate,Ambulance
+760,2025-07-03 06:29:01,12,0,Medical Emergency,Moderate,Ambulance
+761,2025-03-18 21:40:39,48,63,Other,Moderate,Mixed
+762,2025-06-02 18:53:15,16,70,Traffic Accident,Low,Fire Truck
+763,2025-08-14 18:38:58,57,48,Other,Low,Fire Truck
+764,2025-05-04 23:28:28,42,24,Medical Emergency,Moderate,Police
+765,2025-01-28 20:29:33,31,25,Traffic Accident,Critical,Police
+766,2025-07-20 10:49:12,55,64,Fire,Low,Ambulance
+767,2025-07-30 02:14:09,50,70,Fire,Critical,Police
+768,2025-02-27 01:52:50,44,14,Fire,Critical,Ambulance
+769,2025-08-25 21:14:13,17,50,Traffic Accident,Moderate,Ambulance
+770,2025-05-14 08:40:49,5,75,Traffic Accident,Low,Police
+771,2025-09-23 06:46:04,56,48,Traffic Accident,Moderate,Police
+772,2025-04-12 00:29:58,78,19,Other,Moderate,Ambulance
+773,2025-01-15 03:59:48,82,2,Traffic Accident,Moderate,Ambulance
+774,2025-03-16 11:56:25,61,3,Fire,Low,Fire Truck
+775,2025-02-02 02:20:23,95,90,Traffic Accident,Low,Police
+776,2025-03-31 12:20:49,8,91,Medical Emergency,Critical,Ambulance
+777,2025-06-25 23:30:22,47,24,Fire,Moderate,Fire Truck
+778,2025-07-16 00:31:44,44,61,Medical Emergency,Moderate,Ambulance
+779,2025-01-08 15:06:18,82,63,Medical Emergency,Moderate,Fire Truck
+780,2025-02-19 09:18:10,91,5,Medical Emergency,Low,Police
+781,2025-09-05 21:36:26,2,20,Medical Emergency,Low,Fire Truck
+782,2025-01-16 20:46:18,85,61,Traffic Accident,Moderate,Police
+783,2025-08-03 13:22:30,53,15,Traffic Accident,Moderate,Ambulance
+784,2025-08-05 00:04:46,58,1,Fire,Low,Fire Truck
+785,2025-02-23 13:23:15,78,79,Traffic Accident,Moderate,Ambulance
+786,2025-01-03 07:39:45,89,22,Medical Emergency,Low,Ambulance
+787,2025-05-03 23:14:56,37,66,Other,Moderate,Ambulance
+788,2025-09-04 03:53:29,44,95,Traffic Accident,Moderate,Ambulance
+789,2025-04-05 06:37:31,99,6,Traffic Accident,Moderate,Police
+790,2025-01-27 21:02:12,3,95,Medical Emergency,Critical,Ambulance
+791,2025-03-24 02:13:06,83,75,Traffic Accident,Moderate,Ambulance
+792,2025-04-24 16:36:15,21,69,Fire,Low,Police
+793,2025-06-28 10:29:24,59,45,Medical Emergency,Moderate,Police
+794,2025-02-27 05:22:37,58,28,Fire,Moderate,Ambulance
+795,2025-06-30 02:56:17,7,74,Medical Emergency,Low,Mixed
+796,2025-02-23 23:08:05,26,19,Other,Low,Police
+797,2025-03-16 00:32:40,60,73,Traffic Accident,Moderate,Fire Truck
+798,2025-05-04 08:29:55,15,12,Traffic Accident,Critical,Ambulance
+799,2025-04-23 20:57:25,53,74,Traffic Accident,Critical,Ambulance
+800,2025-02-22 04:24:35,85,37,Traffic Accident,Low,Police
+801,2025-06-10 16:47:40,99,31,Traffic Accident,Moderate,Ambulance
+802,2025-09-25 23:17:14,2,79,Fire,Moderate,Ambulance
+803,2025-04-24 12:15:28,67,60,Medical Emergency,Low,Fire Truck
+804,2025-07-23 07:36:34,60,42,Fire,Moderate,Police
+805,2025-07-11 05:03:23,10,97,Traffic Accident,Moderate,Ambulance
+806,2025-04-09 05:21:50,50,20,Other,Moderate,Police
+807,2025-08-21 18:15:44,83,37,Fire,Critical,Ambulance
+808,2025-09-15 23:18:25,17,26,Medical Emergency,Moderate,Mixed
+809,2025-09-26 20:19:11,20,43,Fire,Moderate,Fire Truck
+810,2025-03-13 11:30:13,53,73,Fire,Low,Police
+811,2025-02-27 16:29:23,64,14,Traffic Accident,Critical,Fire Truck
+812,2025-06-06 06:32:21,80,92,Other,Critical,Fire Truck
+813,2025-07-28 02:22:57,32,58,Medical Emergency,Low,Police
+814,2025-05-12 18:57:48,93,37,Fire,Moderate,Ambulance
+815,2025-01-10 15:15:00,76,65,Fire,Moderate,Mixed
+816,2025-05-17 03:35:25,25,74,Fire,Moderate,Ambulance
+817,2025-03-19 20:17:24,7,28,Fire,Critical,Fire Truck
+818,2025-02-14 12:06:48,54,15,Medical Emergency,Moderate,Fire Truck
+819,2025-06-07 20:32:57,58,55,Traffic Accident,Low,Ambulance
+820,2025-01-09 21:42:18,72,34,Traffic Accident,Moderate,Fire Truck
+821,2025-01-27 18:37:43,94,56,Fire,Low,Ambulance
+822,2025-09-05 18:40:26,19,52,Other,Low,Police
+823,2025-05-18 03:26:29,93,28,Traffic Accident,Moderate,Ambulance
+824,2025-01-31 18:39:32,57,33,Fire,Critical,Mixed
+825,2025-08-13 05:06:58,31,51,Fire,Moderate,Mixed
+826,2025-04-09 20:15:07,39,71,Fire,Moderate,Police
+827,2025-09-03 20:01:04,63,7,Traffic Accident,Critical,Police
+828,2025-03-12 14:26:04,27,48,Traffic Accident,Moderate,Mixed
+829,2025-08-14 04:57:51,25,85,Medical Emergency,Low,Ambulance
+830,2025-01-29 21:47:19,87,86,Traffic Accident,Low,Police
+831,2025-04-28 20:35:36,45,95,Traffic Accident,Moderate,Police
+832,2025-05-13 00:27:20,23,98,Traffic Accident,Critical,Police
+833,2025-05-16 02:27:39,64,94,Traffic Accident,Low,Ambulance
+834,2025-05-15 20:06:57,55,97,Fire,Low,Fire Truck
+835,2025-07-01 16:05:16,75,39,Medical Emergency,Critical,Ambulance
+836,2025-02-14 01:00:21,38,12,Other,Low,Ambulance
+837,2025-05-01 17:55:49,90,84,Fire,Low,Ambulance
+838,2025-09-02 01:20:31,43,37,Medical Emergency,Moderate,Police
+839,2025-05-11 08:56:14,17,15,Traffic Accident,Moderate,Police
+840,2025-02-01 00:09:01,61,12,Medical Emergency,Low,Fire Truck
+841,2025-07-25 23:23:53,76,59,Fire,Moderate,Ambulance
+842,2025-03-21 12:50:53,38,71,Traffic Accident,Moderate,Ambulance
+843,2025-04-06 04:35:23,37,91,Traffic Accident,Low,Ambulance
+844,2025-05-21 19:26:28,97,79,Traffic Accident,Low,Mixed
+845,2025-09-20 11:22:18,71,61,Traffic Accident,Moderate,Police
+846,2025-02-02 13:22:40,2,58,Traffic Accident,Low,Fire Truck
+847,2025-04-21 04:08:20,68,61,Other,Critical,Ambulance
+848,2025-03-10 03:26:53,84,83,Traffic Accident,Moderate,Ambulance
+849,2025-02-03 08:23:51,41,48,Medical Emergency,Low,Ambulance
+850,2025-05-02 08:51:39,96,0,Traffic Accident,Critical,Ambulance
+851,2025-03-07 12:17:29,90,22,Traffic Accident,Moderate,Ambulance
+852,2025-05-09 16:57:49,58,12,Fire,Moderate,Police
+853,2025-04-23 21:30:40,15,1,Medical Emergency,Moderate,Police
+854,2025-08-23 06:56:10,12,95,Traffic Accident,Low,Ambulance
+855,2025-06-29 03:31:12,42,84,Medical Emergency,Critical,Fire Truck
+856,2025-01-07 15:19:55,82,14,Other,Moderate,Fire Truck
+857,2025-04-17 07:10:56,86,51,Traffic Accident,Low,Mixed
+858,2025-09-04 06:41:56,0,43,Traffic Accident,Moderate,Ambulance
+859,2025-07-29 04:45:13,14,11,Medical Emergency,Critical,Fire Truck
+860,2025-09-16 02:54:48,71,26,Traffic Accident,Moderate,Police
+861,2025-07-24 06:44:57,61,10,Fire,Moderate,Ambulance
+862,2025-05-31 09:03:52,92,84,Fire,Low,Ambulance
+863,2025-01-09 16:03:59,49,36,Medical Emergency,Moderate,Ambulance
+864,2025-02-15 18:33:45,48,98,Fire,Moderate,Ambulance
+865,2025-03-24 15:35:12,65,62,Traffic Accident,Moderate,Fire Truck
+866,2025-07-08 01:07:15,5,18,Traffic Accident,Moderate,Fire Truck
+867,2025-09-26 10:17:10,36,67,Traffic Accident,Low,Ambulance
+868,2025-06-25 16:40:58,12,51,Medical Emergency,Moderate,Ambulance
+869,2025-04-20 14:43:44,59,82,Traffic Accident,Moderate,Ambulance
+870,2025-02-14 21:42:16,27,0,Traffic Accident,Low,Fire Truck
+871,2025-09-30 12:47:35,75,71,Other,Moderate,Ambulance
+872,2025-02-24 23:07:20,26,8,Traffic Accident,Low,Ambulance
+873,2025-08-26 15:45:18,13,24,Other,Critical,Ambulance
+874,2025-09-12 12:59:12,72,25,Medical Emergency,Moderate,Ambulance
+875,2025-02-22 09:25:31,23,4,Traffic Accident,Low,Police
+876,2025-02-18 14:09:04,34,75,Medical Emergency,Moderate,Police
+877,2025-05-19 17:12:27,86,94,Traffic Accident,Low,Ambulance
+878,2025-09-13 18:41:40,47,54,Traffic Accident,Moderate,Police
+879,2025-08-15 04:49:48,2,20,Fire,Low,Ambulance
+880,2025-03-09 09:37:42,61,96,Traffic Accident,Moderate,Mixed
+881,2025-04-17 10:17:34,51,78,Fire,Critical,Ambulance
+882,2025-05-29 22:45:00,4,69,Other,Moderate,Police
+883,2025-01-20 10:16:22,67,90,Other,Low,Fire Truck
+884,2025-08-02 16:05:36,22,63,Medical Emergency,Moderate,Ambulance
+885,2025-09-02 07:06:29,71,74,Medical Emergency,Critical,Fire Truck
+886,2025-07-03 20:13:05,54,36,Traffic Accident,Low,Ambulance
+887,2025-02-03 02:55:14,72,58,Fire,Low,Ambulance
+888,2025-01-01 02:48:33,29,10,Fire,Critical,Ambulance
+889,2025-04-03 17:18:17,71,62,Fire,Moderate,Ambulance
+890,2025-06-27 12:52:09,93,72,Traffic Accident,Low,Ambulance
+891,2025-08-16 16:19:31,33,30,Traffic Accident,Moderate,Ambulance
+892,2025-06-01 22:31:09,39,0,Traffic Accident,Moderate,Ambulance
+893,2025-03-10 14:35:37,20,78,Medical Emergency,Moderate,Ambulance
+894,2025-07-30 06:34:03,7,61,Medical Emergency,Moderate,Ambulance
+895,2025-05-28 22:13:10,16,37,Fire,Moderate,Police
+896,2025-08-19 14:11:43,13,71,Medical Emergency,Low,Ambulance
+897,2025-01-19 16:38:41,30,34,Traffic Accident,Moderate,Ambulance
+898,2025-09-22 17:01:20,22,88,Medical Emergency,Low,Ambulance
+899,2025-06-09 20:36:54,5,69,Medical Emergency,Moderate,Ambulance
+900,2025-05-15 23:46:14,13,77,Traffic Accident,Moderate,Ambulance
+901,2025-09-07 00:17:23,18,62,Other,Moderate,Ambulance
+902,2025-09-15 21:48:37,18,19,Fire,Moderate,Police
+903,2025-01-18 22:48:23,23,60,Fire,Low,Mixed
+904,2025-05-28 07:46:21,98,31,Medical Emergency,Moderate,Fire Truck
+905,2025-05-03 03:00:57,36,78,Traffic Accident,Critical,Ambulance
+906,2025-02-25 10:05:54,91,15,Traffic Accident,Moderate,Ambulance
+907,2025-09-03 07:17:47,65,30,Traffic Accident,Moderate,Mixed
+908,2025-01-31 22:25:30,30,72,Traffic Accident,Low,Ambulance
+909,2025-07-09 02:03:11,56,79,Fire,Low,Fire Truck
+910,2025-09-11 11:32:59,68,92,Traffic Accident,Moderate,Police
+911,2025-08-16 21:24:58,22,68,Traffic Accident,Low,Ambulance
+912,2025-08-10 21:39:33,3,92,Other,Moderate,Police
+913,2025-04-17 13:25:38,39,95,Traffic Accident,Low,Ambulance
+914,2025-02-18 06:59:47,62,66,Medical Emergency,Low,Fire Truck
+915,2025-03-18 20:54:08,62,67,Traffic Accident,Moderate,Police
+916,2025-03-10 02:51:23,69,34,Other,Moderate,Police
+917,2025-03-17 22:45:52,10,76,Other,Critical,Fire Truck
+918,2025-03-11 05:59:48,86,13,Medical Emergency,Critical,Mixed
+919,2025-07-02 04:41:23,22,73,Medical Emergency,Moderate,Ambulance
+920,2025-08-11 16:55:48,86,29,Medical Emergency,Critical,Fire Truck
+921,2025-03-04 16:24:21,24,73,Medical Emergency,Critical,Ambulance
+922,2025-03-19 09:08:14,40,24,Medical Emergency,Moderate,Ambulance
+923,2025-04-24 14:13:40,98,74,Traffic Accident,Low,Mixed
+924,2025-02-08 12:02:57,80,63,Traffic Accident,Moderate,Ambulance
+925,2025-07-31 21:19:34,81,53,Traffic Accident,Moderate,Ambulance
+926,2025-07-06 04:59:31,98,58,Fire,Critical,Police
+927,2025-09-19 11:20:16,46,47,Medical Emergency,Moderate,Fire Truck
+928,2025-05-22 16:33:33,1,89,Traffic Accident,Low,Ambulance
+929,2025-09-15 01:06:11,6,62,Traffic Accident,Moderate,Ambulance
+930,2025-01-16 19:04:36,11,12,Medical Emergency,Low,Ambulance
+931,2025-06-12 23:59:47,35,84,Traffic Accident,Critical,Ambulance
+932,2025-07-15 09:58:08,92,46,Medical Emergency,Critical,Ambulance
+933,2025-06-03 19:38:51,73,70,Traffic Accident,Moderate,Ambulance
+934,2025-07-11 15:53:23,66,14,Traffic Accident,Moderate,Ambulance
+935,2025-08-04 14:12:02,20,63,Traffic Accident,Low,Fire Truck
+936,2025-07-24 07:24:01,24,69,Traffic Accident,Moderate,Ambulance
+937,2025-01-15 22:08:13,17,68,Medical Emergency,Moderate,Ambulance
+938,2025-05-08 14:31:33,33,12,Traffic Accident,Low,Ambulance
+939,2025-08-27 01:53:15,51,51,Traffic Accident,Critical,Ambulance
+940,2025-09-01 11:20:43,37,69,Medical Emergency,Low,Ambulance
+941,2025-05-14 14:12:00,31,3,Traffic Accident,Critical,Fire Truck
+942,2025-09-04 13:30:46,74,36,Traffic Accident,Critical,Mixed
+943,2025-03-25 03:03:56,76,41,Fire,Moderate,Ambulance
+944,2025-09-12 06:51:26,93,30,Medical Emergency,Moderate,Police
+945,2025-01-25 13:49:05,82,94,Fire,Moderate,Ambulance
+946,2025-01-08 12:15:44,1,65,Traffic Accident,Moderate,Police
+947,2025-01-28 13:29:16,45,38,Other,Moderate,Police
+948,2025-06-12 01:46:20,84,3,Medical Emergency,Moderate,Ambulance
+949,2025-01-08 14:09:45,80,96,Fire,Critical,Fire Truck
+950,2025-04-21 07:44:58,52,70,Traffic Accident,Low,Ambulance
+951,2025-04-13 20:56:31,25,74,Other,Moderate,Police
+952,2025-03-24 11:05:06,11,66,Medical Emergency,Moderate,Fire Truck
+953,2025-03-30 20:21:14,15,1,Fire,Moderate,Ambulance
+954,2025-02-22 20:15:01,24,95,Traffic Accident,Moderate,Ambulance
+955,2025-04-14 20:41:59,76,41,Traffic Accident,Moderate,Ambulance
+956,2025-04-06 00:46:33,56,83,Medical Emergency,Critical,Mixed
+957,2025-08-19 12:17:08,31,89,Fire,Moderate,Ambulance
+958,2025-01-07 13:34:58,89,72,Medical Emergency,Low,Police
+959,2025-07-23 19:24:20,38,59,Medical Emergency,Moderate,Police
+960,2025-07-07 18:01:26,26,1,Medical Emergency,Low,Ambulance
+961,2025-09-11 17:18:52,11,27,Traffic Accident,Critical,Ambulance
+962,2025-01-11 18:09:56,77,17,Traffic Accident,Low,Police
+963,2025-04-21 23:17:05,21,69,Medical Emergency,Moderate,Fire Truck
+964,2025-09-03 23:25:20,79,60,Other,Low,Fire Truck
+965,2025-03-23 12:34:45,35,19,Other,Moderate,Ambulance
+966,2025-07-04 20:11:19,15,58,Other,Moderate,Ambulance
+967,2025-05-31 02:19:27,94,77,Medical Emergency,Moderate,Fire Truck
+968,2025-07-27 02:17:50,13,60,Traffic Accident,Critical,Ambulance
+969,2025-02-26 11:34:16,40,53,Other,Moderate,Ambulance
+970,2025-03-31 17:35:33,86,77,Traffic Accident,Critical,Police
+971,2025-04-06 09:20:13,16,91,Traffic Accident,Critical,Fire Truck
+972,2025-09-11 01:19:13,39,12,Other,Moderate,Fire Truck
+973,2025-02-15 16:00:41,69,24,Traffic Accident,Moderate,Mixed
+974,2025-06-09 11:34:37,90,88,Traffic Accident,Moderate,Ambulance
+975,2025-02-18 17:40:39,95,74,Medical Emergency,Low,Ambulance
+976,2025-09-06 20:54:55,53,89,Traffic Accident,Low,Ambulance
+977,2025-02-06 15:10:46,57,52,Traffic Accident,Moderate,Fire Truck
+978,2025-07-19 05:44:20,69,7,Traffic Accident,Critical,Fire Truck
+979,2025-05-16 21:54:17,34,68,Fire,Moderate,Police
+980,2025-03-09 08:20:59,72,38,Medical Emergency,Moderate,Police
+981,2025-07-18 15:28:14,44,42,Traffic Accident,Critical,Ambulance
+982,2025-09-04 08:24:02,51,52,Medical Emergency,Moderate,Ambulance
+983,2025-06-25 16:50:19,71,41,Fire,Moderate,Ambulance
+984,2025-09-28 14:14:28,76,27,Medical Emergency,Moderate,Police
+985,2025-01-26 06:41:13,50,11,Fire,Critical,Ambulance
+986,2025-02-13 03:29:00,41,26,Other,Moderate,Ambulance
+987,2025-04-23 15:21:57,5,45,Fire,Moderate,Ambulance
+988,2025-08-04 15:12:37,98,71,Fire,Low,Ambulance
+989,2025-03-28 09:38:14,10,60,Other,Low,Police
+990,2025-03-23 08:28:08,11,42,Other,Moderate,Police
+991,2025-03-13 13:52:09,79,12,Medical Emergency,Low,Ambulance
+992,2025-09-03 12:46:34,3,74,Other,Moderate,Ambulance
+993,2025-04-21 20:17:40,91,53,Fire,Low,Ambulance
+994,2025-08-17 09:41:23,56,25,Medical Emergency,Moderate,Ambulance
+995,2025-09-19 10:59:15,13,77,Traffic Accident,Moderate,Ambulance
+996,2025-07-22 17:54:45,29,92,Medical Emergency,Moderate,Mixed
+997,2025-03-14 13:50:15,46,52,Fire,Moderate,Ambulance
+998,2025-09-23 17:13:22,86,88,Other,Moderate,Mixed
+999,2025-02-19 20:48:27,40,73,Fire,Moderate,Fire Truck
+1000,2025-01-28 10:18:09,90,51,Traffic Accident,Critical,Fire Truck
